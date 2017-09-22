@@ -1,0 +1,7 @@
+name: PluginLoader
+website: shadowpixel.ru
+main: PluginLoader\Loader
+version: "0.1"
+author: rdstonech
+api: [3.0.0-ALPHA8]
+load: POSTWORLD
